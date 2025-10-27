@@ -67,6 +67,6 @@ end)
 if _G.Autoexec then
 	game.Loaded:Connect(function()
 		task.wait(5)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/REPO/main/AutoCandy.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Nguyennguyenquockha/Slap_Battle/refs/heads/main/Autofarm%20Candy.lua"))()
 	end)
 end
