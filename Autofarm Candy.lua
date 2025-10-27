@@ -16,7 +16,7 @@ task.spawn(function()
 				end
 			end
 		else
-			print("[Kha Hub] Không còn Candy, đang chuyển server mới...")
+			print("[Kyber Hub] Không còn Candy, đang chuyển server mới...")
 			local HttpService = game:GetService("HttpService")
 			local TPService = game:GetService("TeleportService")
 			local servers = {}
